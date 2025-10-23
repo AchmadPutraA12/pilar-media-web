@@ -28,7 +28,7 @@
 ## 🧩 Overview
 
 **Pilar Media Web** adalah frontend dashboard modern yang dibangun menggunakan:
-- ⚡ **Next.js 14 (App Router)**
+- ⚡ **Next.js 16 (App Router)**
 - 🎨 **TailwindCSS + Shadcn/UI** untuk komponen UI modern dan dark mode
 - 🔐 **Authentication via JWT Cookie** (terhubung ke NestJS API)
 - 🧭 **Protected Routes Middleware**
